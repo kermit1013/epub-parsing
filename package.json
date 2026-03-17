@@ -21,5 +21,8 @@
     "html-to-text": "^9.0.5",
     "msedge-tts": "^2.0.4",
     "opencc": "^1.2.0"
+  },
+  "devDependencies": {
+    "@gradio/client": "^2.1.0"
   }
 }
